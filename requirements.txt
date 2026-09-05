@@ -1,0 +1,6 @@
+# Super30 Python Final Loop & Function Project Dependencies
+# All 12 tasks are implemented using Python 3 standard library modules
+# (typing, datetime, math, random, string, sys, os) ensuring 100% portability.
+
+# Optional development and testing tools:
+pytest>=7.4.0
